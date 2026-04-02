@@ -1,0 +1,13 @@
+{
+  "name": "zhiyuzi-tools",
+  "owner": {
+    "name": "zhiyuzi"
+  },
+  "plugins": [
+    {
+      "name": "my-skill-suite",
+      "source": "./",
+      "description": "A cohesive suite of reusable workflow skills"
+    }
+  ]
+}
